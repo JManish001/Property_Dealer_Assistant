@@ -1,4 +1,4 @@
-package customer;
+package CustomerDemand;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

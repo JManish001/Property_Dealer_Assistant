@@ -1,4 +1,4 @@
-package availProperty;
+package customer;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

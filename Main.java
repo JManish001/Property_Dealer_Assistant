@@ -1,4 +1,4 @@
-package customerView;
+package dashboard;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -12,8 +12,8 @@ public class Main extends Application
  public void start(Stage primaryStage) 
    {
 		try {
-				Parent root=FXMLLoader.load(getClass().getResource("customerView.fxml")); 
-				Scene scene = new Scene(root,600,650);
+				Parent root=FXMLLoader.load(getClass().getResource("dashboardView.fxml")); 
+				Scene scene = new Scene(root,700,750);
 				//scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 				primaryStage.setScene(scene);
 				primaryStage.show();

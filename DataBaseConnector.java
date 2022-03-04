@@ -1,4 +1,4 @@
-package dealsMatured;
+package galleryPic;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

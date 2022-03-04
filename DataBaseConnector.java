@@ -1,4 +1,4 @@
-package login;
+package registrationStatus;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

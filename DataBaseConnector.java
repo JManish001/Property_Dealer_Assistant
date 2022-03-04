@@ -1,4 +1,4 @@
-package dashboard;
+package dealsMatured;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

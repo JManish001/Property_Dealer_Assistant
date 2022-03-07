@@ -1,4 +1,4 @@
-package registrationStatus;
+package searchProperty;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
